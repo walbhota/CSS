@@ -1,0 +1,13 @@
+#up{
+    text-align: center;
+    border: 10px dotted violet;
+    padding: 30px ;
+    margin: 40px 
+}
+
+#down{
+    text-align: center;
+    border: 10px solid salmon;
+    padding: 40px;
+    margin:50px;
+}

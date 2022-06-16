@@ -1,0 +1,24 @@
+h1{
+    color: rgb(255, 195, 127);
+    background-color: bisque;
+    
+}
+h2{
+    color:burlywood;
+    background-color: azure;
+}
+
+div{
+    color:burlywood;
+    background-color: darkcyan;
+    border-color: burlywood;
+    border-style: groove;
+}
+span{
+    color:blueviolet;
+    background-color: goldenrod;
+}
+
+body{
+    background-color: beige;
+}
